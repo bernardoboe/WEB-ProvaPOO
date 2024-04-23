@@ -5,7 +5,7 @@
 ##
 
 Projeto de automação de um restaurante, no qual cada grupo é responsável pela implementação de um
-módulo do sistema.  Grupo: Leonardo Miri; João Aicardi Dequech, Daniel Damaa
+módulo do sistema.  Grupo: Leonardo Miri; Bernardo del Castillo, João Aicardi Dequech, Daniel Damaa
 
 Módulo do grupo --> <b>Pedido</b>
 
